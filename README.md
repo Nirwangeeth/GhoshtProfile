@@ -7,14 +7,14 @@
 
 # Table of content
 
-* [Tool description](#tooldescription)
-* [Creator info](#creatorinfo)
+* [Tool_description](#tooldescription)
+* [Creator_info](#creatorinfo)
 * [Download](#download)
 * [Installation](#installation)
 * [Usage](#usage)
-* [Scanning result](#scanningresult)
+* [Scanning_result](#scanningresult)
 
-# Tool description
+# Tool_description
 
 * Tool name : GhoshtProfile
 
@@ -22,7 +22,7 @@
 
 * GhostProfile is a powerful OSINT (Open Source Intelligence) tool designed for ethical cybersecurity enthusiasts and professionals. By entering a target username, GhostProfile scans multiple online platforms to locate associated social media accounts, giving a comprehensive view of the user's digital footprint. This tool simplifies the process of gathering public information for cybersecurity assessments, educational use, and understanding personal privacy risks.
 
-# Creator info
+# Creator_info
 
 * Created by : Nirwan geeth kaweeshwara
 * Email      : nirwangeethg@gmail.com
@@ -62,7 +62,7 @@ Now run this tool.
 
 ```
 
-# Scanning result
+# Scanning_result
 
 ![scanning](/scanning.png)
 
