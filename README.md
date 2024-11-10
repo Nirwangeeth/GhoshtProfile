@@ -12,7 +12,7 @@
 * [Download](#download)
 * [Installation](#installation)
 * [Usage](#usage)
-* [Scanning_result](#scanning_result)
+* [Example_scanning_result](#example_scanning_result)
 
 # Tool_description
 
@@ -62,6 +62,6 @@ Now run this tool.
 
 ```
 
-# Scanning_result
+# Example_scanning_result
 
 ![scanning](/scanning.png)
