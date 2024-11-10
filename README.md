@@ -7,12 +7,12 @@
 
 # Table of content
 
-* [Tool_description](#tooldescription)
-* [Creator_info](#creatorinfo)
+* [Tool_description](#tool_description)
+* [Creator_info](#creator_info)
 * [Download](#download)
 * [Installation](#installation)
 * [Usage](#usage)
-* [Scanning_result](#scanningresult)
+* [Scanning_result](#scanning_result)
 
 # Tool_description
 
@@ -65,6 +65,3 @@ Now run this tool.
 # Scanning_result
 
 ![scanning](/scanning.png)
-
-
-
