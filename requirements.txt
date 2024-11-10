@@ -1,0 +1,4 @@
+fade==0.0.9
+pycryptodome==3.20.0
+Requests==2.32.3
+rich==13.9.4
