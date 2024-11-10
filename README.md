@@ -12,13 +12,11 @@
 * [Download](#download)
 * [Installation](#installation)
 * [Usage](#usage)
-* [Example scan result](#examplescanresult)
+* [Scanning result](#scanningresult)
 
 # Tool description
 
 * Tool name : GhoshtProfile
-
-## Description
 
 ### GhostProfile - Social Media Intelligence Gathering Tool
 
